@@ -1,0 +1,431 @@
+[
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1528051964404,
+            "changeTime": 1528051964404,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1528051964404,
+            "changeTime": 1528051964404,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1528051964404,
+            "changeTime": 1528051964404,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1528054213237,
+            "changeTime": 1528054213237,
+            "contentHash": "0f60dce8326f6fb361a5ca98a3ae616e6f2d41a4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/HelloContact",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/HelloContact",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1528053449066,
+            "changeTime": 1528054213330,
+            "contentHash": "a1a18cfabe2fa18e9344b11adf242d2763acac71",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/HelloContact/HelloContact.auradoc",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/HelloContact/HelloContact.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1528053449065,
+            "changeTime": 1528054213329,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/HelloContact/HelloContact.cmp",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/HelloContact/HelloContact.cmp",
+            "isDirectory": false,
+            "size": 389,
+            "modifiedTime": 1528053449065,
+            "changeTime": 1528054213330,
+            "contentHash": "eca983199e5fb53acab9ff5889df2cec25979239",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/HelloContact/HelloContact.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/HelloContact/HelloContact.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 207,
+            "modifiedTime": 1528053449065,
+            "changeTime": 1528054213330,
+            "contentHash": "76e4b383206373e87dda5573834e386b99d5799d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/HelloContact/HelloContactController.js",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/HelloContact/HelloContactController.js",
+            "isDirectory": false,
+            "size": 88,
+            "modifiedTime": 1528053449066,
+            "changeTime": 1528054213321,
+            "contentHash": "424f794a1e44fcbdfe4119c28efdd067af4c9b00",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/HelloContact/HelloContactHelper.js",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/HelloContact/HelloContactHelper.js",
+            "isDirectory": false,
+            "size": 445,
+            "modifiedTime": 1528053449066,
+            "changeTime": 1528054213322,
+            "contentHash": "f497b3c358cbb96b72af4d4c883c696a0e1e52a5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/helloMessage",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/helloMessage",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1528053449066,
+            "changeTime": 1528054213351,
+            "contentHash": "2f9f1672b0be4d04102e61dc097f0e3c05ac2902",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/helloMessage/helloMessage.cmp",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/helloMessage/helloMessage.cmp",
+            "isDirectory": false,
+            "size": 119,
+            "modifiedTime": 1528053449066,
+            "changeTime": 1528054213351,
+            "contentHash": "f2e5aaefe16d9a4cbe4c77b22f1e6146d933f226",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/helloMessage/helloMessage.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/helloMessage/helloMessage.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1528053449067,
+            "changeTime": 1528054213350,
+            "contentHash": "255c27edbc22648aa360bee47ea3b2c2c9626c24",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/helloMessageApp",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/helloMessageApp",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1528053449068,
+            "changeTime": 1528054213436,
+            "contentHash": "2fb99c2b4ce62c7f5e11031e32ff95f2bd887656",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/helloMessageApp/helloMessageApp.app",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/helloMessageApp/helloMessageApp.app",
+            "isDirectory": false,
+            "size": 91,
+            "modifiedTime": 1528053449068,
+            "changeTime": 1528054213386,
+            "contentHash": "b90d8441062a5bdf4a3541db10e0352f7ca89d6e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/helloMessageApp/helloMessageApp.app-meta.xml",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/helloMessageApp/helloMessageApp.app-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1528053449069,
+            "changeTime": 1528054213436,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/mylexappgittest",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/mylexappgittest",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1528053390881,
+            "changeTime": 1528053390881,
+            "contentHash": "5894cd3ad720a7e31e07b5210f1b2142c5277f7f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/mylexappgittest/mylexappgittest.app",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/mylexappgittest/mylexappgittest.app",
+            "isDirectory": false,
+            "size": 41,
+            "modifiedTime": 1528053390878,
+            "changeTime": 1528053390878,
+            "contentHash": "2e2cf71551ebd68c8f3d1d1d16b65e1ac6261cf5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/mylexappgittest/mylexappgittest.app-meta.xml",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/mylexappgittest/mylexappgittest.app-meta.xml",
+            "isDirectory": false,
+            "size": 249,
+            "modifiedTime": 1528053390879,
+            "changeTime": 1528053390879,
+            "contentHash": "18e2d26ca2155664f5182c80dc74d0e5b8642c0a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/mylexappgittest/mylexappgittest.auradoc",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/mylexappgittest/mylexappgittest.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1528053390882,
+            "changeTime": 1528053390882,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/mylexappgittest/mylexappgittest.css",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/mylexappgittest/mylexappgittest.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1528053390880,
+            "changeTime": 1528053390880,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/mylexappgittest/mylexappgittest.svg",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/mylexappgittest/mylexappgittest.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1528053390881,
+            "changeTime": 1528053390881,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/mylexappgittest/mylexappgittestController.js",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/mylexappgittest/mylexappgittestController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1528053390879,
+            "changeTime": 1528053390879,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/mylexappgittest/mylexappgittestHelper.js",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/mylexappgittest/mylexappgittestHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1528053390880,
+            "changeTime": 1528053390880,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/mylexappgittest/mylexappgittestRenderer.js",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/mylexappgittest/mylexappgittestRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1528053390881,
+            "changeTime": 1528053390881,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project",
+        {
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1528051969864,
+            "changeTime": 1528051969864,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/Classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/Classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1528054577953,
+            "changeTime": 1528054577953,
+            "contentHash": "d5280699aa49ea070d5055e44b421b17ae361e6e"
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/Classes/ContactViewController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/Classes/ContactViewController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 185,
+            "modifiedTime": 1528053449069,
+            "changeTime": 1528054577948,
+            "contentHash": "b94772af987be689531358170ce89a0bf1770176"
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/Classes/ContactViewController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/Classes/ContactViewController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1528053449070,
+            "changeTime": 1528054577953,
+            "contentHash": "8edf06a0f1338289e1d028eb851c29542e1a041a"
+        }
+    ]
+]
