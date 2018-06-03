@@ -32,16 +32,14 @@
     [
         "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1528051964404,
-            "changeTime": 1528051964404,
-            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 256,
+            "modifiedTime": 1528057433045,
+            "changeTime": 1528057433045,
+            "contentHash": "571b70a313363caa812119700d566676600fc111"
         }
     ],
     [
@@ -94,14 +92,13 @@
         {
             "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/aura/HelloContact/HelloContact.cmp",
             "isDirectory": false,
-            "size": 389,
-            "modifiedTime": 1528053449065,
-            "changeTime": 1528054213330,
-            "contentHash": "eca983199e5fb53acab9ff5889df2cec25979239",
+            "size": 500,
+            "modifiedTime": 1528056649288,
+            "changeTime": 1528056649288,
+            "contentHash": "3e6811a4235100ddd2975367ecea13f772d9803d",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -392,40 +389,222 @@
     [
         "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/Classes",
         {
-            "state": "u",
             "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/Classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1528054577953,
             "changeTime": 1528054577953,
-            "contentHash": "d5280699aa49ea070d5055e44b421b17ae361e6e"
+            "contentHash": "d5280699aa49ea070d5055e44b421b17ae361e6e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/Classes/ContactViewController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/Classes/ContactViewController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 185,
             "modifiedTime": 1528053449069,
             "changeTime": 1528054577948,
-            "contentHash": "b94772af987be689531358170ce89a0bf1770176"
+            "contentHash": "b94772af987be689531358170ce89a0bf1770176",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/Classes/ContactViewController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/Classes/ContactViewController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1528053449070,
             "changeTime": 1528054577953,
-            "contentHash": "8edf06a0f1338289e1d028eb851c29542e1a041a"
+            "contentHash": "8edf06a0f1338289e1d028eb851c29542e1a041a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6106,
+            "modifiedTime": 1528057433034,
+            "changeTime": 1528057433034,
+            "contentHash": "c5c2983ed476f44999a81cd041543e4c5d2f69b5"
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/flexipages/Hello_Contact_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/flexipages/Hello_Contact_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 740,
+            "modifiedTime": 1528057433036,
+            "changeTime": 1528057433036,
+            "contentHash": "2571c5cc08f16f04007fe13a6e39b0f3f3ad4fa3"
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/flexipages/hello_contact.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/flexipages/hello_contact.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1385,
+            "modifiedTime": 1528057433037,
+            "changeTime": 1528057433037,
+            "contentHash": "963e69402951f8e1ff7eadbbf5e71662a32f6b6b"
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/flexipages/Contact_Record_Page1.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/flexipages/Contact_Record_Page1.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6106,
+            "modifiedTime": 1528057433040,
+            "changeTime": 1528057433040,
+            "contentHash": "c5c2983ed476f44999a81cd041543e4c5d2f69b5"
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/tabs/hello_contact.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/tabs/hello_contact.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 322,
+            "modifiedTime": 1528057433041,
+            "changeTime": 1528057433041,
+            "contentHash": "c48e7f59b8cefeaa39d28ab360fadec81d3696fa"
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/applications/standard__LightningSales.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/applications/standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1217,
+            "modifiedTime": 1528057433043,
+            "changeTime": 1528057433043,
+            "contentHash": "f2990a596be6681adda525f9627f451a1e786dcb"
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4760,
+            "modifiedTime": 1528057433046,
+            "changeTime": 1528057433046,
+            "contentHash": "3211f47bc593dccd2dc1e128e0b928f7f0747826"
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4760,
+            "modifiedTime": 1528057433050,
+            "changeTime": 1528057433050,
+            "contentHash": "3211f47bc593dccd2dc1e128e0b928f7f0747826"
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5098,
+            "modifiedTime": 1528057433052,
+            "changeTime": 1528057433052,
+            "contentHash": "825577934093ee967a7e17024d484faa363e0f29"
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17814,
+            "modifiedTime": 1528057433059,
+            "changeTime": 1528057433059,
+            "contentHash": "0388e844daa5df7a51a088bebc984f04e104ea27"
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1528057433040,
+            "changeTime": 1528057433040,
+            "contentHash": "f8e189929a3d603ac64d9fc550ecd28542909d0d"
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1528057433041,
+            "changeTime": 1528057433041,
+            "contentHash": "786ee2227d48059a495aec22390a6d0f8bd1057b"
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/applications",
+        {
+            "state": "u",
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1528057433043,
+            "changeTime": 1528057433043,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065"
+        }
+    ],
+    [
+        "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/trentthomas/Documents/GitHub/vs-git-test/vs-git-test/vs-get-test-sfdx-project/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1528057433059,
+            "changeTime": 1528057433059,
+            "contentHash": "15d8b68bef3142dc9da80c94e822e4e0e39b6ecb"
         }
     ]
 ]
