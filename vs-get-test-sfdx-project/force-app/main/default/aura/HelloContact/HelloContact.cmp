@@ -1,4 +1,7 @@
-<aura:component implements="force:hasRecordId,flexipage:availableForRecordHome" controller="ContactViewController">
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes" access="global"
+controller="ContactViewController">
+
+
 	<aura:attribute name="cnt" type="Contact" />
 
 	<aura:handler name="init" value="{!this}" action="{!c.doInit}" />
